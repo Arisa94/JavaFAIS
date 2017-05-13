@@ -2,7 +2,7 @@ import static java.lang.Math.sqrt;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Start{
+class Start{
 
     public static final double START = 1.0, FINISH = 123.4, STEP = 0.5, STEP_ADD = 0.2;
 
